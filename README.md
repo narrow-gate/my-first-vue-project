@@ -1,3 +1,6 @@
+
+这是一个todolist的vue project
+带有localstorage，页面十分简陋
 # my-first-vue-project
 
 > A Vue.js project
@@ -18,5 +21,3 @@ npm run build
 npm run build --report
 ```
 
-这是一个todolist的vue project
-带有localstorage
