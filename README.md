@@ -1,9 +1,10 @@
 
-这是一个todolist的vue project
-带有localstorage，页面十分简陋
 # my-first-vue-project
 
 > A Vue.js project
+> 
+这是一个todolist的vue project
+带有localstorage，主要是为了学习vue的基本语法
 
 ## Build Setup
 
